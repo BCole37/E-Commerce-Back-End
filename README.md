@@ -25,11 +25,11 @@ Week 13 miniproject and activities
 
  
 # ScreenShot
-![GET](./images/GET Cat id.PNG)
-![GETAll](./images/GET Cat.PNG)
-![POST](images/Cat Post.PNG)
-![PUT](images/Cat Put.PNG)
-![DELETE](./images/Cat Delete.PNG)
+![GET](./images/GETCatid.PNG)
+![GETAll](./images/GETCat.PNG)
+![POST](images/CatPost.PNG)
+![PUT](images/CatPut.PNG)
+![DELETE](./images/CatDelete.PNG)
 
 # Link
 [Link to the Repo](https://github.com/BCole37/E-Commerce-Back-End)
